@@ -15,7 +15,7 @@ redirect_from:
 📞 469-831-5471  
 📧 joelsaji867@gmail.com  
 💻 GitHub: [Versaji1500](https://github.com/Versaji1500)  
-📄 **[Download PDF Resume](../files/Resume_2026.pdf)**
+📄 **[Download PDF Resume](/files/Joel_Saji_Resume.pdf)**
 
 ---
 
